@@ -4,6 +4,12 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /about/
+  - title: "CS"
+    url: /computer-science/
+  - title: "DevOps"
+    url: /dev-ops/
+  - title: "Datascience"
+    url: /data-science/
   - title: "Posts"
     url: /collection-archive/
   - title: "Category"
