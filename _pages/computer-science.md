@@ -9,7 +9,7 @@ computer science 시리즈를 틈틈이 정리하고 있습니다.
 
 - CS
   - [네트워크](/cs/cs_network_1)
-  - [운영체제]
+  - [운영체제](/cs/cs_os_1)
   - [서버]
 - Language
   - [Python]
