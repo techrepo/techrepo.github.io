@@ -3,7 +3,7 @@ title: "파이썬 프로그래밍_10_Pandas_DataFrame"
 header:
  overlay_image: /assets/images/overlayimage.jpg
 categories:
-  - Numpy & Pandas
+  - python
 tags:
   - Numpy & Pandas
 use_math: true

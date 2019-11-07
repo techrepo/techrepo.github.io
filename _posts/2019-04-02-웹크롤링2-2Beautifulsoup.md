@@ -3,7 +3,7 @@ title: "웹 크롤링_BeautifulSoup"
 header:
  overlay_image: /assets/images/overlayimage.jpg
 categories:
-  - 웹 크롤링
+  - crawling
 tags:
   - BeautifulSoup
   - urljoin
