@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://techrepo.github.io/
   - title: "About"
     url: /about/
   - title: "CS"
@@ -16,5 +16,3 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "윤동주"
-    url: /categories/윤동주
