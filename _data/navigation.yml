@@ -10,8 +10,8 @@ main:
     url: /dev-ops/
   - title: "Datascience"
     url: /data-science/
-  - title: "Posts"
-    url: /collection-archive/
+  # - title: "Posts"
+  #  url: /collection-archive/
   - title: "Category"
     url: /categories/
   - title: "Tags"
