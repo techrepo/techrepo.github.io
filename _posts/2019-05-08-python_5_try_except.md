@@ -1,5 +1,6 @@
 ---
-title: "파이썬 프로그래밍_5_try except"
+title: "python_5_try_except"
+excerpt: try, except, finall, raise, 예외처리
 header:
  overlay_image: /assets/images/overlayimage.jpg
 categories:
