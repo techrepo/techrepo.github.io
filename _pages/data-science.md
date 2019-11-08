@@ -1,5 +1,8 @@
 ---
 title: "data-science 시리즈"
+strapline: "strapline"
+header:
+  overlay_image: /assets/images/overlayimage.jpg
 layout: single
 permalink: /data-science/
 author_profile: true
