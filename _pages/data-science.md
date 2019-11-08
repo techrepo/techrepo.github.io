@@ -17,12 +17,15 @@ Data Science 시리즈를 틈틈이 정리하고 있습니다.
 - [Numpy_2](/python/Numpy함수)
 - [Pandas_1](/python/Pandas)
 - [Pandas_2](/python/Pandas_Pivate)
-- [Pandas_3](/python/Pandas_DataFrame)
+- [Pandas_3](/python/Pandas_DataFrame)  
+
 ## 크롤링
 - [urllib](/crawling/웹크롤링session2-1)
-- [BeautifulSoup](/crawling/웹크롤링2-2Beautifulsoup)
+- [BeautifulSoup](/crawling/웹크롤링2-2Beautifulsoup)  
+
 ## 회귀분석
-- [선형회귀](/data-sciende/)
+- [선형회귀](/data-sciende/)  
+
 ## 선형대수
 - [선형대수](/linear-algebra/선형대수_0_NumPy로_공부하는_선형대수)
 - [행렬](/linear-algebra/선형대수_1_데이터와_행렬)
