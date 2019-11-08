@@ -12,8 +12,6 @@ toc: true
 toc_label: "페이지 주요 목차"
 toc_sticky: true
 ---
-try, except, finall, raise, 예외처리 만들기
-
 ## try except
 ```python
 ls = [1, 2, 3]
