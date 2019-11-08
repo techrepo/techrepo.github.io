@@ -1,13 +1,10 @@
 ---
 title: "data-science 시리즈"
-strapline: "strapline"
-header:
-  overlay_image: /assets/images/overlayimage.jpg
 layout: single
 permalink: /data-science/
 author_profile: true
 ---
-data-science 시리즈를 틈틈이 정리하고 있습니다.  
+#### data-science 시리즈를 틈틈이 정리하고 있습니다.  
 관심 가지고 공부했던 기술에 대해 쉽게 공부할 수 있는 형식으로 저장됩니다.
 
 - Python
