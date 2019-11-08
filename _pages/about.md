@@ -1,11 +1,8 @@
 ---
-title: "이 블로그 설명서"
+title: "Biography"
 permalink: /about/
 layout: single
 ---
-
-# Biography
-
 ## Career
 - Bigdata Analysis Intern at Korea Consumer Agency (2019.09 ~ )
 - IT Infrastructure support Intern at Comas (2018.10 ~ 2019.02)
