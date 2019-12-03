@@ -5,9 +5,7 @@ header:
 categories:
   - DevOps
 tags:
-  - DevOps
   - Docker
-  - 개념
 use_math: true
 toc: true
 toc_label: "페이지 주요 목차"
