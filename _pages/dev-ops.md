@@ -20,3 +20,5 @@ DevOps 시리즈를 틈틈이 정리하고 있습니다.
 - [Vagrant란 무엇인가?](/devops/devops_Vagrant_1)
 
 ## Ansible
+- [Ansible 개념과 mini 환경 구성](/devops/devops_Ansible_1)
+- [Ansible 실습 1](/devops/devops_?)
