@@ -11,6 +11,7 @@ DevOps 시리즈를 틈틈이 정리하고 있습니다.
 - [용어 정리](/devops/devops_1)
 - [웹 서버](/devops/devops_2)
 - [mini 3Tire](/devops/devops_3)
+- [AWS 자격증](/dev/)
 
 ## Docker
 - [도커란 무엇인가?](/devops/devops_Docker_1)
